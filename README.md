@@ -1,4 +1,5 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h2>Date: 17-04-2024 </h2>
 <h3>Name: Sriram.V</h3>
 <h3>Register Number: 212222103002</h3>
 <H3>Aim:</H3>
